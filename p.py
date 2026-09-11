@@ -3,5 +3,8 @@ class Person:
         self.name = name
         self.age = age
 
+
+
     def show_info(self):
-        print(f"Name: {self.name} \nAge : {self.age}") 
+        print(f"Name: {self.name} ") 
+        print("momo")
